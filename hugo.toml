@@ -1,0 +1,4 @@
+baseURL = 'https://pin-point-blog.com/'
+locale = 'en-us'
+title = 'Pin-Point-Blog'
+theme = 'ananke'

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pin-point-blog.com/posts/hello-world/</loc>
+    <lastmod>2026-06-22T20:49:32-04:00</lastmod>
+  </url><url>
+    <loc>https://pin-point-blog.com/</loc>
+    <lastmod>2026-06-22T20:49:32-04:00</lastmod>
+  </url><url>
+    <loc>https://pin-point-blog.com/posts/</loc>
+    <lastmod>2026-06-22T20:49:32-04:00</lastmod>
+  </url><url>
+    <loc>https://pin-point-blog.com/categories/</loc>
+  </url><url>
+    <loc>https://pin-point-blog.com/tags/</loc>
+  </url>
+</urlset>

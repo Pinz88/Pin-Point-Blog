@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pin-Point-Blog</title>
+		<link>https://pin-point-blog.com/</link>
+		<description>Recent content on Pin-Point-Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 20:49:32 -0400</lastBuildDate>
+		
+			<atom:link href="https://pin-point-blog.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World</title>
+				<link>https://pin-point-blog.com/posts/hello-world/</link>
+				<pubDate>Mon, 22 Jun 2026 20:49:32 -0400</pubDate>
+				<guid>https://pin-point-blog.com/posts/hello-world/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Testing 123, that is pretty cool&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
