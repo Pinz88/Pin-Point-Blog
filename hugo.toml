@@ -1,4 +1,7 @@
-baseURL = 'https://pin-point-blog.com/'
+baseURL = 'https://mattpinzino.com/'
 locale = 'en-us'
 title = 'Pin-Point-Blog'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
